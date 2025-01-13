@@ -44,14 +44,29 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
   - ⚡ Incremental static regeneration for lightning-fast updates  
   - 🚀 SEO-friendly architecture for better online visibility  
 
+- **Vue.js**  
+  - 🖌️ Lightweight and fast, suitable for both small and large projects  
+  - 🔄 Data binding and component-based architecture  
+  - ⚡ Efficient reactivity and state management  
+
+- **Nuxt.js**  
+  - 🚀 Server-side rendering (SSR) and static site generation (SSG) out of the box  
+  - 🧩 Easy integration with Vue.js and powerful routing capabilities  
+  - 💨 Optimized for performance and SEO  
+
 - **Other Frameworks**  
-  - 🔷 **Vue.js**: Progressive framework for single-page applications  
-  - 🔗 **Angular**: Enterprise-ready, dynamic frameworks  
+  - 🔷 **Angular**: Enterprise-ready, dynamic frameworks  
   - 🔵 **Svelte**: Lightweight and fast web apps  
 
 ---
 
 ### 💻 **Back-End Development**  
+
+- **Laravel**  
+  - 💡 Elegant and expressive syntax  
+  - 🔄 MVC framework for rapid development  
+  - ⚡ Real-time capabilities with broadcasting and queues  
+  - 🔐 Secure authentication and authorization  
 
 - **Node.js**  
   - ⚡ Asynchronous programming for efficient, non-blocking I/O  
@@ -62,6 +77,7 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
   - 🌱 **MongoDB**: Flexible and scalable NoSQL solutions  
   - 🗄️ **MySQL** and **PostgreSQL**: Relational database management systems  
   - 🗂️ **Firestore**: Real-time database for modern applications  
+ 
 
 ---
 
