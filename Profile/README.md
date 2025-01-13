@@ -127,8 +127,7 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
 
 ## 🌍 **Live Projects & Demos**  
 
-- [E-Commerce Website](https://example.com/ecommerce)  
-- [Corporate Portal](https://example.com/corporate)  
+- [Daily Micro Learning](https://github.com/Web-Dev-Kombbe/daily-micro-learning)   
 
 ---
 
