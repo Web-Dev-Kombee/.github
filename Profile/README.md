@@ -118,7 +118,7 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
 
 ## 🛠️ **Tools & Technologies**  
 
-- IDEs: Visual Studio Code, WebStorm  
+- IDEs: Visual Studio Code, WebStorm, Cursor
 - Version Control: Git, GitHub, GitLab  
 - CI/CD: Jenkins, GitHub Actions, Azure Pipelines  
 - Cloud: AWS, Azure, Vercel, Netlify  
