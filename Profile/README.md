@@ -132,6 +132,11 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
 
 ---
 
-## 📞 **Get in Touch**  
+## 🌐 **Let’s Connect**
 
-For more information, reach out to us at [contact@kombee.com](mailto:contact@kombee.com) or visit our website [Kombee](https://kombee.com).  
+We’re excited to collaborate and bring your ideas to life!
+
+- **Website**: [www.kombee.com/in](https://www.kombee.com/in)
+- **Email**: contact@kombee.com
+- **LinkedIn**: [Kombee Technologies](https://in.linkedin.com/company/kombee-global)
+- **Twitter**: [@KombeeTech](https://twitter.com/KombeeTech)
