@@ -127,6 +127,9 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
 
 ## 🌍 **Live Projects & Demos**  
 
+## 💻 **Front-End Development**
+
+1. **ReactJs**  
 - [Daily Micro Learning](https://github.com/Web-Dev-Kombbe/daily-micro-learning) 
 - [Plinkoo Game](https://github.com/Web-Dev-Kombee/plinkoo-game)
 - [Food Receipe](https://github.com/Web-Dev-Kombee/Food-Receipe)
