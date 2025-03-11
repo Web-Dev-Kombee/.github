@@ -127,7 +127,11 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
 
 ## 🌍 **Live Projects & Demos**  
 
-- [Daily Micro Learning](https://github.com/Web-Dev-Kombbe/daily-micro-learning)   
+- [Daily Micro Learning](https://github.com/Web-Dev-Kombbe/daily-micro-learning) 
+- [Plinkoo Game](https://github.com/Web-Dev-Kombee/plinkoo-game)
+- [Food Receipe](https://github.com/Web-Dev-Kombee/Food-Receipe)
+- [Todo App](https://github.com/Web-Dev-Kombee/todo-app)
+- [Task Manager](https://github.com/Web-Dev-Kombee/task-manager)  
 
 ---
 
