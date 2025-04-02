@@ -31,32 +31,89 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
 
 ---
 
-### 🌐 **Front-End Development**  
+✨ Front-End Development
 
-- **React.js**  
-  - 🎨 Component-driven architecture for reusable and maintainable code  
-  - ⚡ Optimized performance with hooks and lazy loading  
-  - 🔄 State management using Context API, Redux, or MobX  
-  - 📱 Fully responsive design with Tailwind CSS and Bootstrap  
+React.js
 
-- **Next.js**  
-  - 🌍 Server-side rendering (SSR) and static site generation (SSG)  
-  - ⚡ Incremental static regeneration for lightning-fast updates  
-  - 🚀 SEO-friendly architecture for better online visibility  
+🎨 Component-driven architecture for reusable and maintainable code
 
-- **Vue.js**  
-  - 🖌️ Lightweight and fast, suitable for both small and large projects  
-  - 🔄 Data binding and component-based architecture  
-  - ⚡ Efficient reactivity and state management  
+⚡ Optimized performance with hooks, lazy loading, and memoization
 
-- **Nuxt.js**  
-  - 🚀 Server-side rendering (SSR) and static site generation (SSG) out of the box  
-  - 🧩 Easy integration with Vue.js and powerful routing capabilities  
-  - 💨 Optimized for performance and SEO  
+🔄 State management using Context API, Redux, or MobX
 
-- **Other Frameworks**  
-  - 🔷 **Angular**: Enterprise-ready, dynamic frameworks  
-  - 🔵 **Svelte**: Lightweight and fast web apps  
+📱 Fully responsive design with Tailwind CSS, Bootstrap, or Material UI
+
+Next.js
+
+🌍 Server-side rendering (SSR) and static site generation (SSG)
+
+⚡ Incremental static regeneration for lightning-fast updates
+
+🚀 SEO-friendly architecture for better online visibility
+
+🔄 API routes and middleware support for backend integration
+
+Vue.js
+
+🖌️ Lightweight and fast, suitable for both small and large projects
+
+🔄 Two-way data binding and component-based architecture
+
+⚡ Efficient reactivity and state management with Vuex and Pinia
+
+Nuxt.js
+
+🚀 Server-side rendering (SSR) and static site generation (SSG) out of the box
+
+🧙‍♂️ Easy integration with Vue.js and powerful routing capabilities
+
+💨 Optimized for performance and SEO
+
+Angular
+
+🛠️ Enterprise-ready framework with TypeScript support
+
+💻 Modular development for scalable and maintainable applications
+
+🌟 Dependency injection and advanced state management
+
+Svelte
+
+🚀 Compiles to highly optimized JavaScript for fast performance
+
+🔄 Built-in reactivity without needing a virtual DOM
+
+🎯 Minimalistic, efficient, and easy-to-learn framework
+
+Solid.js
+
+✨ Fine-grained reactivity with direct state updates
+
+⚡ Fast performance without a virtual DOM
+
+🎯 Simple syntax with JSX support
+
+Qwik
+
+🚀 Optimized for instant-loading web applications
+
+🌐 Resumable execution for better performance
+
+💨 Seamless hydration and lazy loading
+
+
+
+Other Notable Frameworks & Libraries
+
+🔵 Alpine.js: Lightweight and minimal for handling UI interactions
+
+👉 Preact: A fast 3KB alternative to React
+
+🔄 Lit: Web components made simple and efficient
+
+🌟 Stencil.js: Modern web components for reusable UI
+
+🚀 Gatsby.js: Blazing-fast static site generator built on React
 
 ---
 
