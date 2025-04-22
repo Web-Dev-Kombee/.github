@@ -144,14 +144,7 @@ Other Notable Frameworks & Libraries
   - 🔄 WebSocket implementations with **Laravel Echo** and **Pusher**
   - ⚡ Real-time dashboards and monitoring systems
   - 🎨 Chat applications and notification systems
-  - 🔧 Event-driven architecture
-  - 📱 **Live Systems**:
-    - [Real-time Analytics Dashboard](https://realtime-analytics.kombee.com)
-
-  <div style="display: flex; gap: 10px;">
-  <img src="realtime_dashboard.png" alt="Real-time Dashboard" width="200" />
-  <img src="event_streaming.png" alt="Event Streaming" width="200" />
-  </div>  
+  - 🔧 Event-driven architecture  
 
 
 - **Node.js**  
@@ -281,6 +274,10 @@ Our development process adheres to industry best practices to ensure maintainabi
 - [Task Manager](https://github.com/Web-Dev-Kombee/task-manager)  
 
 ---
+
+## 💻 **Back-End Development**
+
+2. **Laravel**
 
 ## 🌐 **Let’s Connect**
 
