@@ -280,6 +280,9 @@ Our development process adheres to industry best practices to ensure maintainabi
 1. **Laravel**
   - [Book Lending System](https://github.com/Web-Dev-Kombee/Book-Lending-System)
   - [Bus Ticketing System](https://github.com/Web-Dev-Kombee/Bus-Ticketing-System)
+  - [Clean Architecture](https://github.com/Web-Dev-Kombee/Clean-Architecture-Laravel)
+  - [Realtime Chat](https://github.com/Web-Dev-Kombee/Laravel-Reverb-Realtime-Chat)
+  - [Domain Driven Design](https://github.com/Web-Dev-Kombee/Laravel-Domain-Driven-Design)
 
 ## 🌐 **Let’s Connect**
 
