@@ -1,7 +1,7 @@
 
 
 <div align="center">  
-  <img src="webdevelopmen-cover-image-rough.png" alt="Web Dev Logo" />  
+  <img src="webdevelopment cover image option2 rough.png" alt="Web Dev Logo" />  
 
 ---
 
