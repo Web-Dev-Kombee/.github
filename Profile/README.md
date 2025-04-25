@@ -160,14 +160,15 @@ Other Notable Frameworks & Libraries
     - 📁 **MongoDB** for document storage
     - 🔑 **Redis** for caching and real-time features
   - ⚡ Query optimization and performance tuning
-  - 🔍 Full-text search implementations with **Elasticsearch**  
-  - 🖼️ **Database Architecture**:
+  - 🔍 Full-text search implementations with **Elasticsearch**
+  
+  - 🖼️ **Database Architectures**:
 
   <div style="display: flex; gap: 10px;">
-  <img src="database_sharding.png" alt="Database Sharding" width="300" />
-  <img src="database_replication.png" alt="Database Replication" width="300" />
-  <img src="database_sharding.png" alt="Database Partition" width="300" />
-  <img src="database_replication.png" alt="Database Archiving" width="300" />
+  <img src="database Sharding.png" alt="Database Sharding" width="400" />
+  <img src="database replication.png" alt="Database Replication" width="400" />
+  <img src="database partition.png" alt="Database Partition" width="400" />
+  <img src="database-archiving.png" alt="Database Archiving" width="400" />
   </div>
 
 ---
