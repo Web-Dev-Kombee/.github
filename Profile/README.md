@@ -32,89 +32,65 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
 
 ---
 
-✨ Front-End Development
+### 💻 **Front-End Development** 
 
-React.js
+**React.js**
 
 🎨 Component-driven architecture for reusable and maintainable code
-
 ⚡ Optimized performance with hooks, lazy loading, and memoization
+🔄 State management with Context API, Redux, or MobX
+📱 Fully responsive designs with Tailwind CSS, Bootstrap, or Material UI
 
-🔄 State management using Context API, Redux, or MobX
-
-📱 Fully responsive design with Tailwind CSS, Bootstrap, or Material UI
-
-Next.js
+**Next.js**
 
 🌍 Server-side rendering (SSR) and static site generation (SSG)
-
 ⚡ Incremental static regeneration for lightning-fast updates
-
 🚀 SEO-friendly architecture for better online visibility
-
 🔄 API routes and middleware support for backend integration
 
-Vue.js
+**Vue.js**
 
-🖌️ Lightweight and fast, suitable for both small and large projects
+🖌️ Lightweight and versatile for small to large-scale applications
+🔄 Two-way data binding with a component-based approach
+⚡ Reactive state management with Vuex and Pinia
 
-🔄 Two-way data binding and component-based architecture
+**Nuxt.js**
 
-⚡ Efficient reactivity and state management with Vuex and Pinia
+🚀 Built-in SSR and SSG for high-performance web apps
+🧙‍♂️ Seamless integration with Vue and advanced routing
+💨 Optimized for speed, SEO, and scalability
 
-Nuxt.js
+**Angular**
 
-🚀 Server-side rendering (SSR) and static site generation (SSG) out of the box
+🛠️ Enterprise-grade framework with full TypeScript support
+💻 Modular architecture for scalable development
+🌟 Robust dependency injection and state management patterns
 
-🧙‍♂️ Easy integration with Vue.js and powerful routing capabilities
+**Svelte**
 
-💨 Optimized for performance and SEO
+🚀 Compiles to minimal JavaScript for blazing-fast performance
+🔄 Native reactivity without virtual DOM overhead
+🎯 Clean syntax and fast learning curve for developers
 
-Angular
-
-🛠️ Enterprise-ready framework with TypeScript support
-
-💻 Modular development for scalable and maintainable applications
-
-🌟 Dependency injection and advanced state management
-
-Svelte
-
-🚀 Compiles to highly optimized JavaScript for fast performance
-
-🔄 Built-in reactivity without needing a virtual DOM
-
-🎯 Minimalistic, efficient, and easy-to-learn framework
-
-Solid.js
+**Solid.js**
 
 ✨ Fine-grained reactivity with direct state updates
+⚡ Ultra-fast performance without using a virtual DOM
+🎯 Simple, JSX-based syntax for modern development
 
-⚡ Fast performance without a virtual DOM
+**Qwik**
 
-🎯 Simple syntax with JSX support
+🚀 Built for instant-loading applications at scale
+🌐 Resumable execution model for optimal performance
+💨 Smart hydration and advanced lazy loading techniques
 
-Qwik
+🎯 **Other Notable Frameworks & Libraries**
 
-🚀 Optimized for instant-loading web applications
-
-🌐 Resumable execution for better performance
-
-💨 Seamless hydration and lazy loading
-
-
-
-Other Notable Frameworks & Libraries
-
-🔵 Alpine.js: Lightweight and minimal for handling UI interactions
-
-👉 Preact: A fast 3KB alternative to React
-
-🔄 Lit: Web components made simple and efficient
-
-🌟 Stencil.js: Modern web components for reusable UI
-
-🚀 Gatsby.js: Blazing-fast static site generator built on React
+🔵 **Alpine.js** – Minimalist reactive framework for simple interactions
+👉 **Preact** – Lightweight 3KB alternative to React
+🔄 **Lit** – Efficient and simple web components
+🌟 **Stencil.js** – Web component compiler for reusable UI
+🚀 **Gatsby.js** – Fast static site generator built on React
 
 ---
 
