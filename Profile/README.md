@@ -261,6 +261,12 @@ Our development process adheres to industry best practices to ensure maintainabi
   - [Realtime Chat](https://github.com/Web-Dev-Kombee/Laravel-Reverb-Realtime-Chat)
   - [Domain Driven Design](https://github.com/Web-Dev-Kombee/Laravel-Domain-Driven-Design)
 
+2. **.NET**
+   - [CQRSDEMO](https://github.com/Web-Dev-Kombee/CQRSDemo)
+   - [GeoTracker](https://github.com/Web-Dev-Kombee/GeoTracker-)
+   - [Bookly](https://github.com/Web-Dev-Kombee/Bookly)
+   - [EBookStore](https://github.com/Web-Dev-Kombee/Dotnet-EBookDemo)    
+
 ## 🌐 **Let’s Connect**
 
 We’re excited to collaborate and bring your ideas to life!
