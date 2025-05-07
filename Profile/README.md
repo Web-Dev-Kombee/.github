@@ -34,63 +34,55 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
 
 ### 💻 **Front-End Development** 
 
-**React.js**
+⚛️ React.js
+   - 🎨 Component-driven architecture for reusable and maintainable UI
+   - ⚡ High performance with Hooks, lazy loading, and memoization
+   - 🔄 Scalable state management using Context API, Redux, or MobX
+   - 📱 Fully responsive UIs with Tailwind CSS, Bootstrap, or Material UI
 
-🎨 Component-driven architecture for reusable and maintainable code
-⚡ Optimized performance with hooks, lazy loading, and memoization
-🔄 State management with Context API, Redux, or MobX
-📱 Fully responsive designs with Tailwind CSS, Bootstrap, or Material UI
+🌐 Next.js
+  - 🌍 Supports SSR (Server-Side Rendering) and SSG (Static Site Generation)
+  - ⚡ Incremental Static Regeneration for near-instant updates
+  - 🚀 SEO-optimized structure for better search visibility
+  - 🔄 Built-in API routes and middleware for backend integration
 
-**Next.js**
+🖌️ Vue.js
+  - ✨ Lightweight and flexible for projects of all sizes
+  - 🔄 Two-way data binding with a reactive component system
+  - ⚡ State management with Vuex and Pinia
 
-🌍 Server-side rendering (SSR) and static site generation (SSG)
-⚡ Incremental static regeneration for lightning-fast updates
-🚀 SEO-friendly architecture for better online visibility
-🔄 API routes and middleware support for backend integration
+🚀 Nuxt.js
+  - 🧙 Built-in support for SSR, SSG, and hybrid rendering
+  - 🧩 Advanced routing, layouts, and seamless Vue integration
+  - 💨 Performance-tuned for SEO and scalability
 
-**Vue.js**
+🏗️ Angular
+  - 🛠️ Full-featured, enterprise-grade framework with TypeScript support
+  - 📦 Modular architecture for large-scale application development
+  - 🔄 Built-in state management and Dependency Injection (DI) patterns
 
-🖌️ Lightweight and versatile for small to large-scale applications
-🔄 Two-way data binding with a component-based approach
-⚡ Reactive state management with Vuex and Pinia
+🔥 Svelte
+  - 🚀 Compiles to minimal, framework-less JavaScript
+  - 🔄 Native reactivity—no virtual DOM required
+  - 🎯 Clean, simple syntax for quick ramp-up and fast development
 
-**Nuxt.js**
+⚡ Solid.js
+  - ✨ Fine-grained reactivity with direct signal-based updates
+  - 🧠 Ultra-fast rendering without virtual DOM
+  - 📘 Familiar JSX syntax with real DOM updates
 
-🚀 Built-in SSR and SSG for high-performance web apps
-🧙‍♂️ Seamless integration with Vue and advanced routing
-💨 Optimized for speed, SEO, and scalability
+🧬 Qwik
+  - ⚡ Designed for instant-load web applications at scale
+  - 🧠 Resumable execution model for ultra-fast performance
+  - 💧 Intelligent hydration and advanced lazy-loading strategies
 
-**Angular**
+📦 Other Notable Frameworks & Libraries
+  - 🔵 Alpine.js – Minimal JavaScript framework for declarative UI interactions
+  - 👉 Preact – Lightweight (3KB) React alternative
+  - 🔄 Lit – Simple, fast library for building Web Components
+  - 🌟 Stencil.js – Compiler for standards-based, reusable Web Components
+  - 🚀 Gatsby.js – Static site generator built on React with GraphQL support
 
-🛠️ Enterprise-grade framework with full TypeScript support
-💻 Modular architecture for scalable development
-🌟 Robust dependency injection and state management patterns
-
-**Svelte**
-
-🚀 Compiles to minimal JavaScript for blazing-fast performance
-🔄 Native reactivity without virtual DOM overhead
-🎯 Clean syntax and fast learning curve for developers
-
-**Solid.js**
-
-✨ Fine-grained reactivity with direct state updates
-⚡ Ultra-fast performance without using a virtual DOM
-🎯 Simple, JSX-based syntax for modern development
-
-**Qwik**
-
-🚀 Built for instant-loading applications at scale
-🌐 Resumable execution model for optimal performance
-💨 Smart hydration and advanced lazy loading techniques
-
-🎯 **Other Notable Frameworks & Libraries**
-
-🔵 **Alpine.js** – Minimalist reactive framework for simple interactions
-👉 **Preact** – Lightweight 3KB alternative to React
-🔄 **Lit** – Efficient and simple web components
-🌟 **Stencil.js** – Web component compiler for reusable UI
-🚀 **Gatsby.js** – Fast static site generator built on React
 
 ---
 
