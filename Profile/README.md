@@ -254,10 +254,10 @@ Our development process adheres to industry best practices to ensure maintainabi
   - [Domain Driven Design](https://github.com/Web-Dev-Kombee/Laravel-Domain-Driven-Design)
 
 2. **.NET**
-   - [Geotracker](https://github.com/Web-Dev-Kombee/GeoTracker-)
-   - [CQRSDemo](https://github.com/Web-Dev-Kombee/CQRSDemo)
-   - [EBookDemo](https://github.com/Web-Dev-Kombee/Dotnet-EBookDemo)
-   - [Bookly](https://github.com/Web-Dev-Kombee/Bookly)
+  - [Geotracker](https://github.com/Web-Dev-Kombee/GeoTracker-)
+  - [CQRSDemo](https://github.com/Web-Dev-Kombee/CQRSDemo)
+  - [EBookDemo](https://github.com/Web-Dev-Kombee/Dotnet-EBookDemo)
+  - [Bookly](https://github.com/Web-Dev-Kombee/Bookly)
 
   
 
