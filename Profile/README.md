@@ -101,11 +101,8 @@ We build dynamic web platforms designed to deliver exceptional user experiences,
 - 🌟 **Stencil.js** – Compiler for reusable, standards-based Web Components  
 - 🚀 **Gatsby.js** – Static site generator built with React and GraphQL  
 
-																			
-														
-													
-															  
 																
+![programming-background-with-person-working-with-codes-computer_23-2150010125](https://github.com/user-attachments/assets/a970b997-d4af-4daf-b25e-ddf4688ea2c2)
 
 ---
 
