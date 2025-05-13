@@ -298,7 +298,8 @@ Our development process adheres to industry best practices to ensure maintainabi
   - [Clean Architecture](https://github.com/Web-Dev-Kombee/Clean-Architecture-Laravel)
   - [Realtime Chat](https://github.com/Web-Dev-Kombee/Laravel-Reverb-Realtime-Chat)
   - [Domain Driven Design](https://github.com/Web-Dev-Kombee/Laravel-Domain-Driven-Design)
-
+  - [QuickCart Order Processor](https://github.com/Web-Dev-Kombee/Laravel-Horizon)
+  - [SnapGallery](https://github.com/Web-Dev-Kombee/Snap-Gallery)
 	
 2. **.NET**
   - [Geotracker](https://github.com/Web-Dev-Kombee/GeoTracker-)
