@@ -323,9 +323,6 @@ Our development process adheres to industry best practices to ensure maintainabi
 - [Kiwi Explorer Map](https://github.com/Web-Dev-Kombee/kiwi-explorer-map) 
 - [Daily Micro Learning](https://github.com/Web-Dev-Kombbe/daily-micro-learning) 
 - [Plinkoo Game](https://github.com/Web-Dev-Kombee/plinkoo-game)
-- [Food Receipe](https://github.com/Web-Dev-Kombee/Food-Receipe)
-- [Todo App](https://github.com/Web-Dev-Kombee/todo-app)
-- [Task Manager](https://github.com/Web-Dev-Kombee/task-manager)  
 
 ---
 
