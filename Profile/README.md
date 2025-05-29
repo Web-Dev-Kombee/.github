@@ -339,13 +339,9 @@ Our development process adheres to industry best practices to ensure maintainabi
 	
 2. **.NET**
   - [Geotracker](https://github.com/Web-Dev-Kombee/GeoTracker-)
-  - [CQRSDemo](https://github.com/Web-Dev-Kombee/CQRSDemo)
-  - [EBookDemo](https://github.com/Web-Dev-Kombee/Dotnet-EBookDemo)
-  - [Bookly](https://github.com/Web-Dev-Kombee/Bookly)
-	
+  - [Player Portal](https://github.com/Web-Dev-Kombee/PlayerPortal)
+  - [Bus Booking System](https://github.com/Web-Dev-Kombee/BusBookingSystem)
 															   
-														  
-																   
 													  
 ---
   
