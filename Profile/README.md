@@ -1,7 +1,8 @@
 # 🌐 Web Development Hub – Kombee
 ---
-<div align="center">  
-  <img src="webdevelopment cover image option2 rough.png" alt="Web Dev Logo" />  
+<a href="https://www.kombee.com/" target="_blank">
+  <img src="webdevelopment cover image option2 rough.png" alt="Web Dev Logo">
+</a>
 
 ---
 
